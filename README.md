@@ -65,7 +65,7 @@ A machine learning system for predicting car prices using MLflow and Streamlit. 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Stefen-Taime/car-price-predictor
+git clone
 cd car-price-predictor
 ```
 
